@@ -1,1 +1,2 @@
 # EECE.5830-Network-Design
+# Covers design and implementation of network software that transforms raw hardware into a richly functional communication system. Real networks (such as the Internet, ATM, Ethernet, Token Ring) will be used as examples. Presents the different harmonizing functions needed for the interconnection of many heterogeneous computer networks. Internet protocols, such as UDP, TCP, IP, ARP, BGP and IGMP, are used as examples to demonstrate how internetworking is realized. Applications such as electronic mail and the WWW are studied.
